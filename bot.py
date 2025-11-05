@@ -29,5 +29,5 @@ def main():
     print("🤖 Бот запущен!")
     app.run_polling()
 
-if name == "__main__":
+if_name_ == "__main__":
     main()
